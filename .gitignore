@@ -1,3 +1,13 @@
+# LAB-01
+lab/lab-01/target
+
+# LAB
+submitted
+
+# PyCharm
+.idea
+*.iml
+
 # Compiled class file
 *.class
 
